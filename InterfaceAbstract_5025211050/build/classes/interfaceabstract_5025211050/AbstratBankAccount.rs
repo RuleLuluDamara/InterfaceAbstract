@@ -1,0 +1,1 @@
+interfaceabstract_5025211050.AbstractBankAccount
